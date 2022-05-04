@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henry sun
 - 👀 I’m interested in CV, DL,Video Understanding, etc.
-- 🌱 I’m currently learning Key Technolygy of Living Stream on E-Commerace Supervision.
+- 🌱 I’m currently learning Key Technology of Living Stream on E-Commerace Supervision.
 - 💞️ I’m looking to collaborate on this project.
 - 📫 Please email to:zdsun@hotmail.com
 
